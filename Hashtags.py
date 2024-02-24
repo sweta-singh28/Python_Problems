@@ -1,4 +1,5 @@
-#WAP to print patter # 
+#WAP to print patter 
+#  
 # #
 # # #
 # # # #
