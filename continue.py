@@ -1,5 +1,5 @@
 i = 0
-str = "Javapoint"
+str = "JavaPoint"
 while i < len(str):
     if str[i] == 'v' or str[i] == 'i':
         i+=1
