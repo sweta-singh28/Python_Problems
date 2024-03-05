@@ -10,4 +10,4 @@ else:
     while(i <= num):
         factorial *= i
         i += 1
-        print("The factorial of the given number is: ", factorial)
+        print("The factorial of the given number is:  ", factorial)
