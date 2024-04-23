@@ -8,7 +8,7 @@ class Student:
  
     @staticmethod
     def Hello():
-        print("Hello Sweta")    
+        print(" Hello Gungun")    
            
            
            
