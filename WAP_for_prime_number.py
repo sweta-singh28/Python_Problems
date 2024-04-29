@@ -6,4 +6,4 @@ for i in range(2, n// 2+1):
     if count == 0:
         print("This is a prime number.")    
     else:
-        print("This is not a priem number")    
+        print("This is not a prime number.")    
