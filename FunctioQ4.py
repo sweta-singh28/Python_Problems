@@ -6,4 +6,4 @@ def Factorial(n):
         print(fact)
 
 
-Factorial(5)        
+Factorial(6)        
