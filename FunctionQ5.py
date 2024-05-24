@@ -5,7 +5,7 @@ def Find(num):
         print("EVEN")
     else:
         print("ODD")  
-        
+         
         
 Find(num)        
           
